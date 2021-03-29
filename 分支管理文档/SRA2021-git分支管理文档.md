@@ -19,6 +19,10 @@
 
 ![](./img/branches_pull.png)
 
+根据打开的网页进行分支归并，也可以查看要归并的分支做了哪些修改
+![](./img/pull1.png)
+![](./img/pull2.png)
+
 
 
 ### 删除分支
