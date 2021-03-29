@@ -23,6 +23,6 @@
 ![](./img/pull1.png)
 ![](./img/pull2.png)
 
-
-
 ### 删除分支
+
+![](./img/delete.png)
